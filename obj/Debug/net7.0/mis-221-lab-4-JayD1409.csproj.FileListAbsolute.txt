@@ -1,0 +1,15 @@
+/Users/jaydrew/Desktop/MIS/LAB/mis-221-lab-4-JayD1409/bin/Debug/net7.0/mis-221-lab-4-JayD1409
+/Users/jaydrew/Desktop/MIS/LAB/mis-221-lab-4-JayD1409/bin/Debug/net7.0/mis-221-lab-4-JayD1409.deps.json
+/Users/jaydrew/Desktop/MIS/LAB/mis-221-lab-4-JayD1409/bin/Debug/net7.0/mis-221-lab-4-JayD1409.runtimeconfig.json
+/Users/jaydrew/Desktop/MIS/LAB/mis-221-lab-4-JayD1409/bin/Debug/net7.0/mis-221-lab-4-JayD1409.dll
+/Users/jaydrew/Desktop/MIS/LAB/mis-221-lab-4-JayD1409/bin/Debug/net7.0/mis-221-lab-4-JayD1409.pdb
+/Users/jaydrew/Desktop/MIS/LAB/mis-221-lab-4-JayD1409/obj/Debug/net7.0/mis-221-lab-4-JayD1409.csproj.AssemblyReference.cache
+/Users/jaydrew/Desktop/MIS/LAB/mis-221-lab-4-JayD1409/obj/Debug/net7.0/mis-221-lab-4-JayD1409.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaydrew/Desktop/MIS/LAB/mis-221-lab-4-JayD1409/obj/Debug/net7.0/mis-221-lab-4-JayD1409.AssemblyInfoInputs.cache
+/Users/jaydrew/Desktop/MIS/LAB/mis-221-lab-4-JayD1409/obj/Debug/net7.0/mis-221-lab-4-JayD1409.AssemblyInfo.cs
+/Users/jaydrew/Desktop/MIS/LAB/mis-221-lab-4-JayD1409/obj/Debug/net7.0/mis-221-lab-4-JayD1409.csproj.CoreCompileInputs.cache
+/Users/jaydrew/Desktop/MIS/LAB/mis-221-lab-4-JayD1409/obj/Debug/net7.0/mis-221-lab-4-JayD1409.dll
+/Users/jaydrew/Desktop/MIS/LAB/mis-221-lab-4-JayD1409/obj/Debug/net7.0/refint/mis-221-lab-4-JayD1409.dll
+/Users/jaydrew/Desktop/MIS/LAB/mis-221-lab-4-JayD1409/obj/Debug/net7.0/mis-221-lab-4-JayD1409.pdb
+/Users/jaydrew/Desktop/MIS/LAB/mis-221-lab-4-JayD1409/obj/Debug/net7.0/mis-221-lab-4-JayD1409.genruntimeconfig.cache
+/Users/jaydrew/Desktop/MIS/LAB/mis-221-lab-4-JayD1409/obj/Debug/net7.0/ref/mis-221-lab-4-JayD1409.dll
